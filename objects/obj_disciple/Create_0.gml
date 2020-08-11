@@ -1,2 +1,3 @@
-/// @description Initial Values
-// You can write your code in this editor
+/// @description draw rising ghoul
+sprite_index = spr_disciple_rise
+//draw_self();

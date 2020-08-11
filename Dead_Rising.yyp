@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1b937592-1897-4d6c-a4b9-876339baba95",
+            "Value": {
+                "id": "bd3a880e-7352-446a-be6b-a8f2b825aec1",
+                "resourcePath": "objects\\obj_shadow\\obj_shadow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24092030-bfae-412d-912b-bcbb2465d395",
             "Value": {
                 "id": "cba46e11-b00b-45e1-ae11-4e05115c5cd8",
@@ -98,7 +106,7 @@
             "Key": "555b220e-d503-4867-ad7d-036a610f7504",
             "Value": {
                 "id": "ccce6193-4684-480c-871b-8d9d08a5191d",
-                "resourcePath": "sprites\\spr_shadow\\spr_shadow.yy",
+                "resourcePath": "sprites\\spr_shadow_rise\\spr_shadow_rise.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "a423c19a-8d15-4b7e-9552-681f33832846",
+            "Value": {
+                "id": "81600f97-06ca-4603-88f8-fde9f307e52a",
+                "resourcePath": "sprites\\spr_disciple_right\\spr_disciple_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "851f8145-8348-4903-98df-2a7c915c2e28",
@@ -146,7 +162,7 @@
             "Key": "b8a0a76e-b0d8-4cf8-9bc8-ec0894b21d3b",
             "Value": {
                 "id": "7b5f95af-5dc7-448f-b16b-80cdf332c7ee",
-                "resourcePath": "sprites\\spr_disciple\\spr_disciple.yy",
+                "resourcePath": "sprites\\spr_disciple_rise\\spr_disciple_rise.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -196,14 +212,6 @@
                 "id": "0ce26a74-bc8f-46fc-9060-38b1338401ec",
                 "resourcePath": "views\\e2a1932c-3102-4db0-bfcc-4e772d3d6ac0.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "eafd2d36-eafc-421c-81d0-9aa815e66268",
-            "Value": {
-                "id": "f4764a6c-0364-4239-a50f-0ebe4d644b47",
-                "resourcePath": "objects\\obj_shadow\\obj_shadow.yy",
-                "resourceType": "GMObject"
             }
         },
         {

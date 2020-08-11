@@ -5,7 +5,17 @@
     "name": "obj_disciple",
     "eventList": [
         {
-            "id": "f8cc0a19-90a0-4a54-be1d-b3b665aa53c6",
+            "id": "bddc7309-d86b-45bf-9b90-ed6616f850b7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9531f02f-b940-46b6-ab83-51d79830df14"
+        },
+        {
+            "id": "7050f196-da7e-477c-8f3d-efb0a482b9f9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b8a0a76e-b0d8-4cf8-9bc8-ec0894b21d3b",
+    "spriteId": "a423c19a-8d15-4b7e-9552-681f33832846",
     "visible": true
 }
